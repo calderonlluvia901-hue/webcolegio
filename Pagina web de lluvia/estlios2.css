@@ -1,0 +1,15 @@
+body {
+    background-color: #be2467;
+
+}
+
+
+.contenido {
+    background-color: aqua;
+    width: fit-content;
+    padding: 85px;
+    flex-direction: column;
+    text-align: center;
+    display: flex;
+    width: fit-content;
+ }

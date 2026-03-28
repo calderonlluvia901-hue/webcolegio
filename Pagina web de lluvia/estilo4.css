@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(140, 158, 174);
+}
+
+.redes {
+    background-color:  #F5F5DC;
+    width: fit-content;
+    padding: 85px;
+    text-align: center;
+    flex-direction: column;
+    display: flex;
+    }

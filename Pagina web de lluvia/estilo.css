@@ -1,0 +1,19 @@
+body {
+    background-color: #f9f7f2;
+}
+.menu {
+    background-color:  #F5F5DC;
+    width: fit-content;
+    padding: 85px;
+    text-align: center;
+    flex-direction: column;
+    display: flex;
+
+}
+.h1 {
+    color: #333;
+    font-size: 32px;
+    font-family: sans-serif;
+    
+
+}
